@@ -41,8 +41,21 @@ public class Book {
 
     // Enum for Genre
     public enum Genre {
-        FICTION, SCIENCE_FICTION, NON_FICTION, FANTASY
-    }
+    FICTION,
+    SCIENCE_FICTION,
+    NON_FICTION,
+    FANTASY,
+    MYSTERY,
+    THRILLER,
+    ROMANCE,
+    HISTORY,
+    BIOGRAPHY,
+    HORROR,
+    ADVENTURE,
+    TECHNOLOGY,
+    SELF_HELP,
+    POETRY
+}
 
     // Constructors
     public Book() {}
